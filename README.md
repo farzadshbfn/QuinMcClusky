@@ -1,5 +1,5 @@
 # QuinMcClusky
-<h4>pair<int,int> used in code (as ii) is a PrimeImplicant and is stored as following:</h4>
+<h4>pair&ltint,int&gt used in code (as ii) is a PrimeImplicant and is stored as following:</h4>
 
 .first holds: one representations
 
